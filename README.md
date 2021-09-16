@@ -1,5 +1,7 @@
-# tour-heroku-deploy
+# Deploy to heroku
 
+```
 heroku create <br>
-git remote add heroku  'url of the repo generated in the terminal as output of the previous command' <br>
+git remote add heroku  'use git repo from previous output command' <br>
 git push heroku master
+```
